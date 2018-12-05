@@ -126,7 +126,7 @@ int main()
                         e=1;
                         c=g-1;
                     }
-                }while (d<=c && e!=1);
+                }while (d<=c);
                 if (e==1)
                 {
                     cout <<i*X+vt<<endl;
